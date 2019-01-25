@@ -1,0 +1,17 @@
+insertScript_typ.sql
+insertScript_stupen.sql
+insertScript_oddeleni.sql
+insertScript_dodavatel.sql
+insertScript_authority.sql
+
+insertScript_user.sql
+insertScript_servisFirma.sql
+insertScript_status.sql
+insertScript_interval.sql
+insertScript_pristroj.sql
+
+insertScript_dokument.sql
+insertScript_pristrojDokument.sql
+insertScript_nakup.sql
+insertScript_servisZP.sql
+insertScript_kontrolaZP.sql
